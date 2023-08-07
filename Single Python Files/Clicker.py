@@ -1,5 +1,6 @@
 #A simple Clicker using Tkinter
 
+
 from tkinter import *
 import tkinter.font as font
 
