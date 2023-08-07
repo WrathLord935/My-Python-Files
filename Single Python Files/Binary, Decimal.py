@@ -1,3 +1,5 @@
+#Converting Binary to Decimal and Vice-Versa
+
 h = 'Y'
 while h == 'Y' or h == 'y':
     a = int(input('Choose:\n\t1.Decimal to Binary\n\t2.Binary to Decimal\n'))
