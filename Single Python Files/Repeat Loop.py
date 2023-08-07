@@ -1,4 +1,4 @@
-#Repeat Loop
+#A simple Repeat Loop for copy-pasting into other code
 
 h = 'Y'
 while h == 'Y' or h == 'y':
