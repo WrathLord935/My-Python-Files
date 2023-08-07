@@ -62,3 +62,4 @@ while i < c+1:
     print(i,a, ' =', q, j)
     i=i+1
 
+    print('\n\tCreated by Wrath Lord')
