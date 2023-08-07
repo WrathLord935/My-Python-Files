@@ -1,4 +1,4 @@
-#Changes a set of decimal numbers which has a inputed start and end to binary
+#Changes a set of decimal numbers which has a inputted start and end to binary
 
 i = int(input('From which decimal number do you want to start?\n'))
 c = int(input('Which decimal number do you want to end with?\n'))
@@ -62,4 +62,4 @@ while i < c+1:
     print(i,a, ' =', q, j)
     i=i+1
 
-    print('\n\tCreated by Wrath Lord')
+print('\nCreated by Wrath Lord')
