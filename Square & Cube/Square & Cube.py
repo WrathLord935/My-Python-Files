@@ -1,3 +1,5 @@
+#Cubing & Squaring using Tkinter
+
 from tkinter import *
 import tkinter.font as font
 
@@ -103,4 +105,3 @@ label8.grid(row=17, column=1, pady=2)
 button5 = Button(wn,text='Clear',bg='DeepSkyBlue2',fg='white',activebackground='DeepSkyBlue4',activeforeground='gray',font=font,command=clear)
 
 button5.grid(row=21, column=1, pady=2)
-
